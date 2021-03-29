@@ -1,0 +1,5 @@
+<!--pages/next/next.wxml-->
+<view>
+  <button class='welcome-btn' bindtap='goToPage'>开启</button>
+</view>
+<!--index.wxml-->

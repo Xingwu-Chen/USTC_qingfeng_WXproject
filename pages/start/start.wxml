@@ -1,0 +1,7 @@
+<!--pages/start/start.wxml-->
+<view>
+
+      {{info_time}}{{temp_id}}: {{temp}}{{temp_state}}
+
+
+</view>
